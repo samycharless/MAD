@@ -26,5 +26,15 @@ namespace proyectoMAD
         {
 
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void lecturaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
