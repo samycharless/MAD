@@ -50,6 +50,7 @@ namespace proyectoMAD
             this.label1.Size = new System.Drawing.Size(199, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "Por favor ingresa los datos que se piden:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
